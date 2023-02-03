@@ -2,7 +2,7 @@
 - 🔭 I’m student, learning to become a full stack software engineer. I am passionate about learning new things and i enjoy working with people.
 - 🌱 I’m currently learning Python 
 - 💬 Ask me about anything related to C/Python
-- 📫 How to reach me: [link]mildredkonney9@gmail.com
+- 📫 How to reach me: mildredkonney9@gmail.com
 <!--
 **mildredkonney/mildredkonney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
