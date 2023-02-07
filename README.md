@@ -1,7 +1,6 @@
 # Hello there 👋, i'm Mildred
 
-### I’m currently a student, learning to become a full stack software engineer. I am passionate about learning new things and i am tech enthusiast.
-
+### A Tech Enthusiast Who Is Currently Studying To Become A Full Stack Software Engineer @ ALX.
 
 - 🌱 I’m currently learning Python 
 - 💬 Ask me about anything related to C/Python
