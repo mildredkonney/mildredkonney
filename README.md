@@ -1,4 +1,4 @@
-# Hello there 👋, i'm Mildred
+# Hello there 👋👋👋, welcome to my profile. my name is Mildred...
 
 ### A Tech Enthusiast Who Is Currently Studying To Become A Full Stack Software Engineer @ ALX.
 
