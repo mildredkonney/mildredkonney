@@ -1,5 +1,5 @@
-#Hello there 👋, i'm Mildred
-###I’m currently a student, learning to become a full stack software engineer. I am passionate about learning new things and i enjoy working with people.
+##Hello there 👋, i'm Mildred
+I’m currently a student, learning to become a full stack software engineer. I am passionate about learning new things and i enjoy working with people.
 - 🌱 I’m currently learning Python 
 - 💬 Ask me about anything related to C/Python
 - 📫 How to reach me: mildredkonney9@gmail.com
